@@ -45,3 +45,8 @@ A:
 8. The max bottle beer he can drink
 A dunk has 15 bottles of beer at hand. 4 empty bottles can be exchanged with a bottle of beer.
 Q: What's the max bottle of beer he can drink without spending more money?
+
+9. Birthday Problem
+Q: In a room of N people, what's the probability of existence that at least 2 people share same birthday when N = 50?
+A:
+
