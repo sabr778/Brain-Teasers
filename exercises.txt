@@ -50,3 +50,7 @@ Q: What's the max bottle of beer he can drink without spending more money?
 Q: In a room of N people, what's the probability of existence that at least 2 people share same birthday when N = 50?
 A:
 
+10. 对一批编号为1~100，全部开关朝上（灯亮）的灯进行以下操作：凡是1的倍数反方向拨一次开关；凡是2的倍数反方向拨一次开关；凡是3的倍数反方向拨一次开关...直到第一百次。
+Q:问最后为熄灭状态灯的编号？
+
+11.
