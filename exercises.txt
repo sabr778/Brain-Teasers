@@ -53,4 +53,8 @@ A:
 10. 对一批编号为1~100，全部开关朝上（灯亮）的灯进行以下操作：凡是1的倍数反方向拨一次开关；凡是2的倍数反方向拨一次开关；凡是3的倍数反方向拨一次开关...直到第一百次。
 Q:问最后为熄灭状态灯的编号？
 
-11.
+11. Use coins 1,2,5,10 to exchange 100
+Q: How many methods?
+
+12. Given 999 standard coins and a special one(both side is head). Pick one coin and toss 10 times consequently, and it got head 10 times.
+Q: What's the probability that picking the speicial one.
