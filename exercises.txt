@@ -58,3 +58,7 @@ Q: How many methods?
 
 12. Given 999 standard coins and a special one(both side is head). Pick one coin and toss 10 times consequently, and it got head 10 times.
 Q: What's the probability that picking the speicial one.
+
+13. 100个事件相互独立，每个事件发生概率为0.01。
+Q: 手算近似（1）求这100个事件都不发生概率。（2）如果只有10个事件，求这10个事件都不发生的概率。
+A: Approx. pow(0.99,100) and pow(0.99,10)
