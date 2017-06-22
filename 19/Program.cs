@@ -12,6 +12,7 @@ namespace AnyTest
     {
         private static void Main(string[] args)
         {
+            //more like probability state transition
             int[] dices = {1,2,3,4,5,6};
             const int NUM = 105;
             double[] steps = new double[NUM+1];

@@ -1,4 +1,5 @@
 import random
+# simulating toss the dice
 NUM = 100000
 cnt = [1,0,0,0,0,0,0]
 for i in range(1,NUM+1):
