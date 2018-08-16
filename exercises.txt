@@ -1,5 +1,5 @@
 1. Walking Monkey
-A road length of 100m, A monkey holds 100 bananas at the start point of the road. It wants to carry the maximum number of bananas to the end point of the road.
+A road length of 50m, A monkey holds 100 bananas at the start point of the road. It wants to carry the maximum number of bananas to the end point of the road.
 1)It can hold max 50 bananas at one time. 
 2)On the road, it will eat one banana per meter.
 
